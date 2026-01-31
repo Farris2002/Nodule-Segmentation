@@ -1,13 +1,15 @@
 [![Build Status](https://github.com/Indefiable/Nodule-Segmentation/actions/workflows/maven.yml/badge.svg)](https://github.com/Indefiable/Nodule-Segmentation/actions/workflows/maven.yml)
 
+[![Docs Status](https://github.com/Indefiable/Nodule-Segmentation/actions/workflows/javadoc.yml/badge.svg)](https://indefiable.github.io/Nodule-Segmentation/)
+
+
+
 Nodule Segmentation
 ===================
 This is an ImageJ plugin that takes as input images of fluoresced images of nodules on root systems,
 and uses Color Clustering algorithms to outline, categorize, count, and measure nodules within the image.
 It is extended from Weka's unsupervised ColorClustering plugin, and uses .model files generated from 
 that plugin. 
-
-For documentation of the source code, visit the documentation [website](https://indefiable.github.io/Nodule-Segmentation/).
 
 Limitations
 ===========
