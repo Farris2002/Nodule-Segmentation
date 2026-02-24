@@ -1,25 +1,30 @@
 ---
 title: 'Nodule Analysis: A Fiji plugin for nodule data collection'
+
 tags:
   - Java
   - ImageJ
   - FIJI
   - biology
+  
 authors:
   - name: Brandin Farris
     orcid: 0009-0002-2462-6094
     equal-contrib: true
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
   - name: Bala Krishnamoorthy
-	orcid: 0000-0002-2727-6547
+    orcid: 0000-0002-2727-6547
     equal-contrib: false # (This is how you can denote equal contributions between multiple authors)
-    affiliation: "2"
+    affiliation: "1"
+    
 affiliations:
- - name: Washington State University
-   index: 1
- - name: Oregon State University
-   index: 2
-date: 21 March 2025
+  - index: 1
+    name: Oregon State University
+  - index: 2
+    name: Washington State University
+    
+date: 21 February 2026
+
 bibliography: paper.bib
 ---
 
